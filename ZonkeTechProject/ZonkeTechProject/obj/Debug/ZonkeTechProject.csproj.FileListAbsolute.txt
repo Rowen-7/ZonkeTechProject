@@ -1,0 +1,8 @@
+c:\users\r & w\documents\visual studio 2010\Projects\ZonkeTechProject\ZonkeTechProject\bin\ZonkeTechProject.dll
+c:\users\r & w\documents\visual studio 2010\Projects\ZonkeTechProject\ZonkeTechProject\bin\ZonkeTechProject.pdb
+c:\users\r & w\documents\visual studio 2010\Projects\ZonkeTechProject\ZonkeTechProject\obj\Debug\ZonkeTechProject.dll
+c:\users\r & w\documents\visual studio 2010\Projects\ZonkeTechProject\ZonkeTechProject\obj\Debug\ZonkeTechProject.pdb
+C:\Users\R & W\Desktop\ZonkeTechProject\ZonkeTechProject\bin\ZonkeTechProject.dll
+C:\Users\R & W\Desktop\ZonkeTechProject\ZonkeTechProject\bin\ZonkeTechProject.pdb
+C:\Users\R & W\Desktop\ZonkeTechProject\ZonkeTechProject\obj\Debug\ZonkeTechProject.dll
+C:\Users\R & W\Desktop\ZonkeTechProject\ZonkeTechProject\obj\Debug\ZonkeTechProject.pdb
